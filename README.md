@@ -1,6 +1,6 @@
 ### Hola, soy [JosephCanahuiri](https://github.com/JosephCanahuiri) 👋
 
-Estudio un máster de Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/), España. Soy docente de [Microsoft Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/) y cuento con una especialización en Transformación Digital en [Pacífico Business School](https://pbs.edu.pe/default.aspx) y otra en Business Intelligence & Big Data en [Cibertec](https://www.cibertec.edu.pe/). Me apasiona el análisis basado en datos y desarrollo proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks).
+Estudio un máster de Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/). Soy docente de [Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/), cuento con un posgrado en Transformación Digital en [Pacífico Business School](https://pbs.edu.pe/default.aspx) y una especialización en Business Intelligence & Big Data en [Cibertec](https://www.cibertec.edu.pe/). Me apasiona el análisis basado en datos y desarrollo proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks).
 
 **Mi experiencia laboral**:
 - [Indra](https://www.indracompany.com/): Analista de Información.
