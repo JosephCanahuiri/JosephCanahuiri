@@ -9,7 +9,7 @@ Estudio un máster de Big Data Analytics en la [Universidad Europea de Madrid](h
 - [Crediscotia Financiera](https://www.crediscotia.com.pe/): Analista de Gestión de Información.
 - [Banco Pichincha](https://www.pichincha.com/): Practica de MIS & Back Office.
 
-## Mis Skills:
+### Mis Skills:
 
 #### Herramientas:
 
