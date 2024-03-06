@@ -3,11 +3,11 @@
 Estudio un máster de Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/), España. Soy docente de [Microsoft Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/) y cuento con una especialización en Transformación Digital en [Pacífico Business School](https://pbs.edu.pe/default.aspx) y otra en Business Intelligence & Big Data en [Cibertec](https://www.cibertec.edu.pe/). Me apasiona el análisis basado en datos y desarrollo proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks).
 
 **Mi experiencia laboral**:
-- [Indra](https://www.indracompany.com/)
-- [BBVA](https://www.bbva.pe/)
-- [Interbank](https://interbank.pe/)
-- [Crediscotia Financiera](https://www.crediscotia.com.pe/)
-- [Banco Pichincha](https://www.pichincha.com/)
+- [Indra](https://www.indracompany.com/): Analista de Información.
+- [BBVA](https://www.bbva.pe/): Especialista CRM
+- [Interbank](https://interbank.pe/): Analista de Información.
+- [Crediscotia Financiera](https://www.crediscotia.com.pe/): Analista de Gestión de Información.
+- [Banco Pichincha](https://www.pichincha.com/): Practica de MIS & Back Office.
 
 ## Mis Skills:
 
