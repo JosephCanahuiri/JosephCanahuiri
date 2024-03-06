@@ -13,7 +13,7 @@ Estudio un máster online en Big Data Analytics en la [Universidad Europea de Ma
 
 #### Herramientas:
 
-![PowerBI](https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
