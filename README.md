@@ -1,6 +1,6 @@
 ### Hola, soy [JosephCanahuiri](https://github.com/JosephCanahuiri) 👋
 
-Estudio un máster online en Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/), España. Soy docente de [Microsoft PowerBI](https://powerbi.microsoft.com/es-es/desktop/) en Cibertec. Además, tengo una especialización en Transformación Digital en Pacífico Business School y especialización en Business Intelligence & Big Data en Cibertec. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+Estudio un máster online en Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/), España. Soy docente de [Microsoft Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/). Además, tengo una especialización en Transformación Digital en [Pacífico Business School](https://pbs.edu.pe/default.aspx) y especialización en Business Intelligence & Big Data en Cibertec. Me apasiona el análisis basado en datos y desarrollo proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks).
 
 **My Research Interest**:
 - Outlying Aspect Mining
@@ -9,18 +9,11 @@ Estudio un máster online en Big Data Analytics en la [Universidad Europea de Ma
 - Anomaly Detection
 - Similarity Measure
 
- **I am open to**:
-
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
 ## Skills:
 
 #### Languages:
 
-![PowerBI](https://img.shields.io/badge/PowerBI-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
