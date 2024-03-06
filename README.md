@@ -18,7 +18,7 @@ Estudio un máster online en Big Data Analytics en la [Universidad Europea de Ma
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
+![Spark](https://img.shields.io/badge/Apache_Spark-4A729B?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![ETL](https://img.shields.io/badge/ETL-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
