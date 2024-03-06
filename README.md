@@ -1,6 +1,6 @@
-### Hi there, I'm [JosephCanahuiri](https://github.com/JosephCanahuiri) 👋
+### Hola, soy [JosephCanahuiri](https://github.com/JosephCanahuiri) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+Estudio un máster online en Big Data Analytics en la [Universidad Europea de Madrid](https://universidadeuropea.com/), España. Soy docente de [Microsoft PowerBI](https://powerbi.microsoft.com/es-es/desktop/) en Cibertec. Además, tengo una especialización en Transformación Digital en Pacífico Business School y especialización en Business Intelligence & Big Data en Cibertec. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 **My Research Interest**:
 - Outlying Aspect Mining
