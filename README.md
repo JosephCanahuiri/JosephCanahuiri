@@ -9,7 +9,7 @@ Cuento con un posgrado en Transformación Digital en **[Pacífico Business Schoo
 - ***BBVA**: Especialista CRM*.
 - ***Interbank**: Analista de Información*.
 - ***Crediscotia Financiera**: Analista de Gestión de Información*.
-- ***Banco Pichincha**: Practica de MIS & Back Office*.
+- ***Banco Pichincha**: Practicante de MIS & Back Office*.
 
 ### Mis Skills:
 
