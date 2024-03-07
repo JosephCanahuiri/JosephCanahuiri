@@ -1,6 +1,7 @@
 ### Hola, soy [JosephCanahuiri](https://github.com/JosephCanahuiri) 👋
 
-Profesional de Ing. Industrial de la **[Universidad Nacioal Mayor de San Marcos](https://www.unmsm.edu.pe/)**. Estudio un máster de Big Data Analytics en la **[Universidad Europea de Madrid](https://universidadeuropea.com/)**. Soy docente de [Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/), cuento con un posgrado en Transformación Digital en **[Pacífico Business School](https://pbs.edu.pe/default.aspx)** y una especialización en Business Intelligence & Big Data en [Cibertec](https://www.cibertec.edu.pe/). Me apasiona el análisis basado en datos y desarrollo proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks).
+Estudié Ing. Industrial en la **[Universidad Nacioal Mayor de San Marcos](https://www.unmsm.edu.pe/)**. Actualmente curso un máster de Big Data Analytics en la **[Universidad Europea de Madrid](https://universidadeuropea.com/)** y soy docente de [Power BI](https://powerbi.microsoft.com/es-es/desktop/) en [Cibertec](https://www.cibertec.edu.pe/).
+Cuento con un posgrado en Transformación Digital en **[Pacífico Business School](https://pbs.edu.pe/default.aspx)** y una especialización en Business Intelligence & Big Data en [Cibertec](https://www.cibertec.edu.pe/). Me apasiona el análisis basado en datos, proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks) y aplicar Storytelling con dashboards en Power BI.
 
 **Mi experiencia laboral**:
 - *[Cibertec](https://www.cibertec.edu.pe/): Docente Power BI nivel básico, intermedio y avanzado*.
