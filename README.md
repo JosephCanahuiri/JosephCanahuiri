@@ -4,7 +4,7 @@ Estudié Ing. Industrial en la **[Universidad Nacional Mayor de San Marcos](http
 Cuento con un posgrado en Transformación Digital en **[Pacífico Business School](https://pbs.edu.pe/default.aspx)** y una especialización en Business Intelligence & Big Data en Cibertec. Me apasiona el análisis basado en datos, proyectos en ciencia de datos (Machine Learning, Data Science, Azure & Databricks) y aplicar Storytelling con dashboards en Power BI.
 
 **Mi experiencia laboral**:
-- *[Cibertec](https://www.cibertec.edu.pe/): Docente Power BI nivel básico, intermedio y avanzado*.
+- ***[Cibertec]**: Docente Power BI nivel básico, intermedio y avanzado*.
 - *[Indra](https://www.indracompany.com/): Analista de Información*.
 - *[BBVA](https://www.bbva.pe/): Especialista CRM*.
 - *[Interbank](https://interbank.pe/): Analista de Información*.
