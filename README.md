@@ -5,11 +5,11 @@ Cuento con un posgrado en Transformación Digital en **[Pacífico Business Schoo
 
 **Mi experiencia laboral**:
 - ***Cibertec**: Docente Power BI nivel básico, intermedio y avanzado*.
-- *[Indra](https://www.indracompany.com/): Analista de Información*.
-- *[BBVA](https://www.bbva.pe/): Especialista CRM*.
-- *[Interbank](https://interbank.pe/): Analista de Información*.
-- *[Crediscotia Financiera](https://www.crediscotia.com.pe/): Analista de Gestión de Información*.
-- *[Banco Pichincha](https://www.pichincha.com/): Practica de MIS & Back Office*.
+- ***Indra**: Analista de Información*.
+- ***BBVA**: Especialista CRM*.
+- ***Interbank**: Analista de Información*.
+- ***Crediscotia Financiera**: Analista de Gestión de Información*.
+- ***Banco Pichincha**: Practica de MIS & Back Office*.
 
 ### Mis Skills:
 
